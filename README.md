@@ -12,8 +12,8 @@
 - 링크드리스트는 배열리스트에 비해 자료의 삽입과 삭제에 유리하나 (앞뒤 참조 주소값만 변경하면 됨), 검색에는 불리하다 (링크를 타고들어가야 함)
 - 그 이유는, 저장공간이 순차적인 주소의 나열이 아닌 원격 노드의 주소참조에 의해 연결되어 있기 때문이다
 
-![arraylist&linkedlist](https://github.com/daesungRa/MyLinkedList/blob/master/imgs/LinkedList01.PNG)
-![linkedlist](https://github.com/daesungRa/MyLinkedList/blob/master/imgs/LinkedList02.PNG)
+![arraylist&linkedlist](https://github.com/daesungRa/MyLinkedList/blob/master/imgs/LinkedList01.png)
+![linkedlist](https://github.com/daesungRa/MyLinkedList/blob/master/imgs/LinkedList02.png)
 
 출처: [생활코딩](https://opentutorials.org/module/1335/8821)
 
