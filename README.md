@@ -3,7 +3,7 @@
 
 ## Summary
 
-많이 사용되는 LinkedList 를 직접 작성해 보았다
+많이 사용되는 LinkedList 를 직접 작성해 보았다<br/>
 사용언어는 JAVA 이다
 
 ## 기본개념
